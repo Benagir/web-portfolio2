@@ -1,0 +1,17 @@
+body{
+    font-family: 'Crete Round', serif;
+}
+#bolo{
+    font-size: 40px;
+    color:rgba(233, 22, 152, 0.993);
+}
+.boom{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-align:left;
+}
+.boom img{
+    width:80%;
+}
